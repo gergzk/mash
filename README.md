@@ -1,3 +1,3 @@
 # mash
-On the rocks
+On the rocks.
 So many whiskeys, so little time.

@@ -1,0 +1,11 @@
+﻿.score.scale {
+    width: 60px;
+}
+
+.description.scale {
+    width: calc(100% - 180px);
+}
+
+.chart.scale {
+    width: 80px;
+}

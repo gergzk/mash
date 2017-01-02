@@ -1,0 +1,46 @@
+﻿.wholeScreen {
+    height: 100%;
+    margin: 0px;
+}
+
+.header {
+    height: 40px;
+    width: calc(100% - 10px);
+    font-size: 36px;
+    font-weight:500;
+    font-family: 'Copperplate Gothic';
+    padding: 5px 5px 15px 5px;
+}
+
+.container {
+    width: 100%;
+}
+.shade.yes {
+    background-color: darkgray;
+}
+.shade.no {
+    background-color: lightgray;
+}
+.line {
+    height: 80px;
+}
+.image {
+    width: 40px;
+    text-align: center;
+}
+.score {
+    font-size: 36px;
+    text-align: center;
+    vertical-align: central;
+    font-weight: 500;
+}
+.description {
+    font-size: 14px;
+    overflow: hidden;
+}
+.chart {
+}
+.block {
+    float: left;
+    height: 100%;
+}

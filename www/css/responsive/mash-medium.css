@@ -1,0 +1,12 @@
+﻿.score.scale {
+    width: 60px;
+}
+
+.description.scale {
+    width: calc(100% - 100px);
+}
+
+.chart.scale {
+    visibility: hidden;
+    width: 0px;
+}

@@ -1,0 +1,14 @@
+﻿.score.scale {
+    width: calc(100% - 100px);
+}
+
+.description.scale {
+    visibility: hidden;
+    width: 0%;
+}
+
+.chart.scale {
+    visibility: hidden;
+    width: 0%;
+}
+
